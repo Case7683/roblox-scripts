@@ -1,2 +1,2 @@
 # roblox-scripts
-luau scripts and showcase
+luau scripts and showcases
